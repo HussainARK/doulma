@@ -1,0 +1,8 @@
+*.pyc
+bap.cmd
+
+__pycache__/
+venv/
+.*/
+dist/
+doulma.egg-info/
