@@ -11,3 +11,7 @@ def get_supported_hashing_types():
 
 
 supported_hashing_types = get_supported_hashing_types()
+
+# Networking Things
+
+supported_http_methods = ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
